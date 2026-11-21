@@ -4,8 +4,8 @@ This project runs on a $0 budget using free, public-domain records and open-sour
 
 ## Policy
 
-• Open Core: All data, code, examples, and field notes remain permanently free (CC-BY-4.0 / MIT).
-• Independence: No funding will be accepted from defense primes, proposal-consulting firms, or lobbying groups.
+- **Open Core:** All data, examples, and field notes remain permanently free under CC BY 4.0 (with verbatim U.S. government works noted under 17 U.S.C. § 105).
+- **Independence:** No funding will be accepted from defense primes, proposal-consulting firms, or lobbying groups.
 
 ## Ledger
 
