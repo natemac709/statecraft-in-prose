@@ -24,11 +24,11 @@
 
 ODNI's solicitation for intelligence-program budget and process support required a program manager with a PMP (or equivalent) and at least seven years of relevant experience as a federal program manager. Guidehouse's narrative stated that its proposed candidate had over eight years of experience managing programs of varying complexity across the federal government, and the evaluators called out that claim as stated in general terms.
 
-- **Later Contract Record:** Protest `B-421227.2; B-421227.3` sustained August 26, 2024 (following initial award to KPMG LLP at `$53,027,362` versus Guidehouse at `$29,382,335` under Solicitation `2021-20111300002S`).
+- **Later Contract Record:** Protest `B-421227.2; B-421227.3` sustained August 26, 2024 (following initial award to KPMG LLP at `$53,027,362` versus Guidehouse at `$29,382,335` under Solicitation `2021-20111300002S`), with GAO finding the proposal's specific IC CFO duties (`"managed plans"`, `"monitored risk"`, `"directed communications pertaining to the delivery of deliverables"`) inconsistent with the evaluators' `"[n]o further supporting information"` conclusion and giving little weight to an inconsistent post-protest certification-length claim.
 
 ## Nuance Lost in Translation
 
-A summary that says "the vendor claimed eight years of experience and the evaluator pushed back" misses the phrasing contrast between a **specific role/duration threshold** (`"minimum of seven (7) years relevant experience as a Program Manager within the Federal Government"`) and a **broad capability claim** (`"managing programs with varying degrees of complexity"`), which the evaluation record explicitly labels as stated `"in general terms"`.
+A summary that says "the vendor claimed eight years of experience and the evaluator pushed back" misses the phrasing contrast between a specific role/duration threshold (`"minimum of seven (7) years relevant experience as a Program Manager within the Federal Government"`) and a broad capability claim (`"managing programs with varying degrees of complexity"`), which the evaluation record explicitly labels as stated `"in general terms"`.
 
 ## Grammar & Structure Notes
 
