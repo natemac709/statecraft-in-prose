@@ -1,36 +1,37 @@
 # Case [ID]: [Short Topic]
 
-• Docket: [Official .gov URL]
+- **Docket:** [Official .gov URL]
+- **Agency:** [Agency Name]
+- **Reviewer Verdict:** [Strength / Weakness / Deficiency]
 
-• Agency: [Agency Name]
+## 0. Stated Public Purpose (Optional)
 
-• Reviewer Verdict: [Strength / Weakness / Deficiency]
+> "[Opening program goal, statutory mandate, or plain background statement—how the human need was originally stated]"
 
-0. Stated Public Purpose (Optional):
-"[Opening program goal, statutory mandate, or plain background statement—how the human need was originally stated]"
+## 1. The Prompt
 
-1. The Prompt (Solicitation Requirement):
-"[Exact quote from the RFP / PWS]"
+> "[Exact quote from the solicitation, RFP, or PWS]"
 
-2. The Reply (Vendor Text):
-"[Exact quote from the bid]"
+## 2. The Reply
 
-3. The Reviewer's Note:
-"[Exact quote from the evaluation]"
+> "[Exact quote from the vendor submission or bid]"
 
-Plain-English Gloss:
-[1–2 sentences saying what was actually promised without the institutional dialect.]
+## 3. The Reviewer's Note
 
-Nuance Lost in Translation:
-[Brief note on any legal, technical, or procedural meaning that doesn't carry over cleanly into everyday speech.]
+> "[Exact quote from the evaluation or decision record]"
 
-Grammar & Structure Notes:
-• Who acts: [Active human subject, passive voice, nominalization, or inanimate framework?]
+## Plain-English Gloss
 
-• How firm: [Hard commitment ("will"/"shall") or hedge ("aims to", "supports")?]
+[1–2 sentences stating what was actually promised or requested without institutional dialect.]
 
-• Substance & Density: [Concrete numbers/steps, or echoing the prompt with dense noun stacks?]
+## Nuance Lost in Translation
 
-• Pragmatic Uptake: [How the evaluator read and quoted the text.]
+[Brief note on any legal, technical, or procedural meaning that does not carry over cleanly into everyday speech.]
 
-• Later Contract Record: [What happened afterward on USAspending.gov, if relevant.]
+## Grammar & Structure Notes
+
+- **Who acts:** [`active_human` | `passive_agentless` | `nominalized` | `inanimate_actor`] — [brief note]
+- **How firm:** [`firm` | `hedged`] — [brief note, including any FAR Part 2 modal drift]
+- **Substance & Density:** [`concrete` | `echo` | `noun_stack`] — [brief note]
+- **Pragmatic Uptake:** [`quotes_concrete_detail` | `penalizes_vagueness` | `echoes_vendor_fog`] — [brief note]
+- **Later Contract Record:** [What happened afterward on USAspending.gov or in later records, if relevant.]
