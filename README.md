@@ -1,8 +1,8 @@
 # Statecraft in Prose: Federal Purpose and the Public Vernacular
 
-Every public contract runs through a paper conversation in which institutions try to bind future action with words. After ten years around federal contracting, I've seen that institutional dialect hide what is actually being asked or promised—and slowly train the people who write and read it to talk in circles.
+Every public contract runs through a paper conversation in which institutions try to bind future action with words. Across governments and governance systems, procurement speech is the nexus of stated purposes and real action. After ten years around government contracting ("GovCon"), I have witnessed how institutional dialect can obscure the substance of a request or promise--training personnel slowly, but surely, to communicate ineffectively.
 
-This is a small, independent corpus linguistics project. In plain terms, that means gathering real samples of writing and lining them up side by side to see how people actually use words in practice—and comparing how federal purpose is stated in official prose versus how it translates into the public vernacular.
+This is a small, independent corpus linguistics project examining how institutional speech shape action. In plain terms, that means gathering real samples of writing, juxtaposing them to see how people actually use words in practice, and comparing how federal purpose is stated in official prose versus how it translates into the public vernacular.
 
 ## Who This Is For
 
