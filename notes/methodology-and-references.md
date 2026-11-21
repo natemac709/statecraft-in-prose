@@ -8,3 +8,6 @@
 ## Related Literature & Anchors
 - **Forensic Linguistics & Contract Readability:** Peter Tiersma (*Legal Language*) and empirical studies on syntactic complexity in legal and procurement texts.
 - **Bureaucratese & Plain Language:** Research on public administration prose alongside the Federal Plain Language Guidelines (plainlanguage.gov) and the Plain Writing Act of 2010.
+
+## Legal Reminder
+- **Third-Party Attribution in Public Dockets:** Note when a `.gov` record or extract includes third-party or supplier data (such as D&B fields in older SAM.gov records) so reuse and attribution stay within stated limits.
