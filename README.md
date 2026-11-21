@@ -28,9 +28,9 @@ Instead of guessing at what a writer meant, we line up turns of a public record�
 ## Paired Data Sources
 
 To measure how institutional dialect reshapes meaning across a contract's lifecycle, this corpus lines up matching pairs from open records:
-- **Solicitations vs. Plain-Language Summaries:** Formal RFPs and Performance Work Statements (SAM.gov) paired against agency press releases, outreach flyers, or congressional justifications for the same program.
-- **Regulatory Clauses vs. Plain Writing Guidance:** Standard FAR Part 52 clauses compared against Federal Plain Language Guidelines (plainlanguage.gov) and the Plain Writing Act of 2010 (which exempts regulations, creating the institutional split studied here).
-- **Award & Protest Records vs. Public Reporting:** GAO bid protest decisions (gao.gov) and USAspending.gov award summaries—where administrative judges and reporters have to translate procurement jargon back into plain narrative facts.
+- **Solicitations vs. Plain-Language Summaries:** Formal RFPs and Performance Work Statements (https://SAM.gov) paired against agency press releases, outreach flyers, or congressional justifications for the same program.
+- **Regulatory Clauses vs. Plain Writing Guidance:** Standard FAR Part 52 clauses compared against Federal Plain Language Guidelines (https://plainlanguage.gov) and the Plain Writing Act of 2010 (which exempts regulations, creating the institutional split studied here).
+- **Award & Protest Records vs. Public Reporting:** GAO bid protest decisions (https://gao.gov) and https://USAspending.gov award summaries—where administrative judges and reporters have to translate procurement jargon back into plain narrative facts.
 
 ## Where Things Stand
 
@@ -56,11 +56,18 @@ Rather than spinning up new social accounts or mixing different kinds of writing
 
 ## Rules for Using Public Records
 
-Everything here comes from records already open to the public by law (GAO bid protest decisions, SAM.gov solicitations, and USAspending.gov).
+Everything here comes from records already open to the public by law (GAO bid protest decisions, https://SAM.gov solicitations, and https://USAspending.gov).
 
 1. Every quote links back to its official `.gov` docket URL.
 2. Quotes stay exact—no edited punctuation or out-of-context clipping.
 3. Notes describe how the text functions, not legal validity or personal motives—recognizing that procurement prose is shaped by real statutory rules, page limits, and protest pressures.
+
+## Quick-Start Public Record Sources (URLs)
+- GAO Bid Protest Decisions: https://gao.gov
+- Federal Contract Outcomes: https://usaspending.gov
+- Solicitations & J&As: https://sam.gov
+- Federal Acquisition Regulation (FAR): https://acquisition.gov
+- Federal Plain Language Guidelines: https://plainlanguage.gov
 
 ## Stewardship Purpose
 
